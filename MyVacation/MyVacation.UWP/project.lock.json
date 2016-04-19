@@ -1,0 +1,15 @@
+{
+  "locked": false,
+  "version": 2,
+  "targets": {
+    "UAP,Version=v10.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "": [
+      "Microsoft.NETCore.UniversalWindowsPlatform >= 5.0.0",
+      "Xamarin.Forms >= 2.0.0.6482"
+    ],
+    "UAP,Version=v10.0": []
+  }
+}
